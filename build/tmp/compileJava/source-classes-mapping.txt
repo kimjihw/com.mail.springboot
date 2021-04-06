@@ -1,0 +1,8 @@
+com/mail/springboot/Application.java
+ com.mail.springboot.Application
+com/mail/springboot/dto/MailDto.java
+ com.mail.springboot.dto.MailDto
+com/mail/springboot/service/MailService.java
+ com.mail.springboot.service.MailService
+com/mail/springboot/controller/MailController.java
+ com.mail.springboot.controller.MailController

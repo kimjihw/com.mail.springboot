@@ -1,0 +1,14 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: {kimal846@naver.com}
+    password: {a486512ghks6973}
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+            # spring.mail: 네임스페이스를 통해 메일 서버 정보를 설정
